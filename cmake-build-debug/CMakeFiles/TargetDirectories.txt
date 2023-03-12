@@ -1,0 +1,3 @@
+C:/Users/jaros/CLionProjects/CzyLiczbaPierwsza/cmake-build-debug/CMakeFiles/c222.dir
+C:/Users/jaros/CLionProjects/CzyLiczbaPierwsza/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jaros/CLionProjects/CzyLiczbaPierwsza/cmake-build-debug/CMakeFiles/rebuild_cache.dir
